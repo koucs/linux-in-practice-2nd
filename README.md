@@ -12,3 +12,5 @@ $ sudo adduser `id -un` libvirt
 $ sudo adduser `id -un` libvirt-qemu
 $ sudo adduser `id -un` kvm
 ```
+
+
